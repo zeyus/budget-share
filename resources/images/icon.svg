@@ -1,0 +1,9 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+<title>BS</title>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#ffffff" id="svg_1" height="775.230769" width="775.230769" y="12.358975" x="12.307693" stroke-width="20" fill="#093563"/>
+  <text transform="matrix(21.931 0 0 21.931 -3282.66 -2118.98)" stroke="#ffffff" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_2" y="122.305615" x="167.660886" stroke-width="0" fill="#ffffff">BS</text>
+  <line stroke="#ffffff" id="svg_3" y2="610.55265" x2="585.897416" y1="132.051279" x1="585.897416" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="61" fill="none"/>
+ </g>
+</svg>
